@@ -1,0 +1,43 @@
+--- overview
+AMP (Access Music Project) provides a broad listing of local concerts in a streamlined interface that
+lets users quickly browse listings, instantly preview artists and discover new music in their area.
+This helps connect people with good music, and thereby supports independent artists.
+
+--- financial model
+no revenue. no ads, editorial liabilities, or business concerns
+allows us to focus on optimized UI and functionality,
+rather than driving page-views, etc.
+all work is volunteer-driven, based on open-source model.
+content is scraped (as needed, initially) or crowd-sourced (preferably)
+the project is hosted on scalable cloud servers and can be optimized for cost efficiency,
+so out-of-pocket hosting costs are on the order of tens to hundreds of dollars per month
+this non-profit mentality assures objectivity, a positive ethos that individual contributors
+can rally around, and also and indie vibe that gels with its industry and mission.
+
+--- content
+initially, concert listings are provided through an automated scraper tool that can pull structured data from
+major ticket websites and concert listings, as well as most venues (though that content is less reliable)
+content can also be provided by any logged-in user, using a pop-up form on the main listing page.
+that content (as well as scraper-generated content) will be moderated by admins and power users
+that have proven reliability by contributing content.
+artist previews are youtube videos shown inline. when possible, the video will be selected by a user/moderator.
+Otherwise, the preview will show videos based on a simple text search for the artists name, which is over 95% accurate
+artists will be stored in the system, so that once artist info is provided,
+it'll appear in later concerts with that artist
+
+--- users and gamification
+as users log in and contribute content/moderation, they will be rewarded with increased privileges, features, and influence
+Initially, users will be shown an introductory popup whenever they visit, and then they can browse the listings, with filters
+Once a user has authenticated and created a free account, they can skip the introduction and save the default filter settings.
+they can also add new concerts, but those need to be approved. After they've added some content that's been approved,
+they can start approving others' submissions, submitting changes to the listings, and approving others' changes.
+As they contribute more content and moderation, they level up (though this level will degrade over time with inactivity).
+Active contributors will be randomly featured in the introductory popup, and they get the ability to "boost" a number of events
+each month. Events that are boosted will be highlighted and sorted before other listings.
+As a user levels up, they get more boosts, this increasing their influence.
+
+--- marketing
+in addition to grassroots marketing, potentially a viral video and appeals to bands and venues to engage fans, and participate themselves.
+while it's against the rules to sell boosts for money, it's entirely OK to boost your own concert, or a band you love.
+So anyone in a band could be involved and boost their own shows. And if any of their fans get involved, it'll help publicize the band.
+This provides incentive for word-of-mouth sharing.
